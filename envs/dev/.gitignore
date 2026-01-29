@@ -7,3 +7,4 @@ terraform.tfstate.backup
 *.tfvars.json
 override.tf
 override.tf.json
+.DS_Store
